@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.hero{
+background-image: url(bg-pattern-desktop.svg);
+width: 50%;
+height: 100vh;
+float: left;
+display: inline-block;
+
+
+
+}
+.abd{margin-bottom: 70px;
+
+
+}
+
+ h1{color:rgba(260, 173, 109, 0.877);}
+p{
+    color:rgba(260, 173, 109, 0.877) ;
+    padding: 10px
+    
+
+}
+.girl
+{
+    width: 50%;
+    height: 100vh;
+    float: right;
+}
+button{
+   height: 40px;
+   width: 300px;
+   
+    color:  rgba(260, 173, 109, 0.877) ;
+    border: 2px solid rgba(260, 173, 109, 0.877)  ;
+ 
+    border-radius: 12px;
+    display: inline;
+
+    
+     
+}
+
+.total{
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 60px; 
+    display: inline-block;
+    
+} 
+span{
+    display: inline;
+}
+
